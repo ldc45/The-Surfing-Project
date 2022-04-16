@@ -1,0 +1,20 @@
+#hero {
+  /* Choisis la hauteur ici */
+  height: 500px;
+
+  /* Tu lui donnes une image de background */
+  background-image: url("surf.jpg");
+
+  /* Centre l'image et la met bien sur tous les écrans */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.pic {
+
+  height: 350px;
+  width: 300px;
+  margin: 10px 10px;
+
+}
